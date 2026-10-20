@@ -1,0 +1,6 @@
+print("---------------")
+print("     Nome      ")
+print("1---joga")
+print("2----confi")
+print("3-----sair")
+print("---------------")
